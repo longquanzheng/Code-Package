@@ -10,35 +10,36 @@
 public class Task {
 	public Expertise taskExp;
 	public String taskStatus;
-	private long startTime;
+	//private long startTime;
 	public int iterationsCompleted;
-	public long timeAllowedHours;
+	//public long timeAllowedHours;
 	public int iterationsAllowed;
 	public double taskAchievement;
 	public double minAchievement;
 	public TaskType taskType;
-	private static final int secondsPerHour = 1;
-	private int hoursPerIteration;
+	//private static final int secondsPerHour = 1;
+	//private int hoursPerIteration;
 	
-	public Task(Expertise taskExpInput, long timeLimitInput, int iterationsInput, TaskType taskTypeInput, double minAchievementInput, int hoursPerIterationInput){
+	public Task(Expertise taskExpInput, int iterationsInput, TaskType taskTypeInput, double minAchievementInput){
 		taskExp = taskExpInput; //Expertise required by the Task
 		iterationsCompleted = 0; //How many attempts it took for the team to complete the task
 		taskAchievement = 0; //How much the team has achieved toward the task's completion
 		taskStatus = "Not Started";
-		timeAllowedHours = timeLimitInput; //Time pressure
+	//	timeAllowedHours = timeLimitInput; //Time pressure
 		iterationsAllowed = iterationsInput; //Attempt pressure
 		taskType = taskTypeInput; // Additive, Conjunctive, Disjunctive - See enumeration for TaskType
 		minAchievement = minAchievementInput; //How much achievement is required for the task to be considered "Complete"
-		startTime = System.currentTimeMillis();
-		hoursPerIteration = hoursPerIterationInput;
+	//	startTime = System.currentTimeMillis();
+	//	hoursPerIteration = hoursPerIterationInput;
 	}
 	
-	public int elapsedHours(){
+	/*public int elapsedHours(){
 		return (int) ((System.currentTimeMillis() - startTime)/1000/secondsPerHour);
-	}
+	}*/
 	
 	public boolean available(){
-		if(taskAchievement>= minAchievement || iterationsCompleted>=iterationsAllowed || elapsedHours() >= timeAllowedHours){
+	//	if(taskAchievement>= minAchievement || iterationsCompleted>=iterationsAllowed || elapsedHours() >= timeAllowedHours){
+		if(taskAchievement>= minAchievement || iterationsCompleted>=iterationsAllowed){
 /*			if(taskAchievement >= minAchievement){
 				taskStatus = "Task is complete";
 			}else if(iterationsCompleted >=iterationsAllowed){
@@ -58,7 +59,7 @@ public class Task {
 		//Parse Boolean into Integer for future calculation
 		int effExpInt = (effExp) ? 1 : 0;
 		//One iteration of a task (attempt) takes x hours
-		Thread.sleep(hoursPerIteration * 1000/secondsPerHour);
+		//Thread.sleep(hoursPerIteration * 1000/secondsPerHour);
 		double newAchievement = roll*effExpInt*effComm;
 		taskAchievement = taskAchievement + newAchievement;
 		iterationsCompleted++;

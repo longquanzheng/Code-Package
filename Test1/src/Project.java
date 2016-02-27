@@ -30,25 +30,25 @@ public class Project {
 			System.out.println("Building Task List");
 			Expertise tmpTaskExp;
 			tmpTaskExp = new Expertise(5, 0, 5, 4, 1);
-			project.taskList[0] = new Task(tmpTaskExp, 100, 100, TaskType.Additive, 10, 1);
+			project.taskList[0] = new Task(tmpTaskExp, 100, TaskType.Additive, 10);
 			tmpTaskExp = new Expertise(0, 0, 0, 3, 3);
-			project.taskList[1] = new Task(tmpTaskExp, 100, 100, TaskType.Conjunctive, 30, 5);
+			project.taskList[1] = new Task(tmpTaskExp, 100, TaskType.Conjunctive, 30);
 			tmpTaskExp = new Expertise(1, 1, 1, 1, 1);
-			project.taskList[2] = new Task(tmpTaskExp, 100, 100, TaskType.Disjunctive, 30, 1);
+			project.taskList[2] = new Task(tmpTaskExp, 100, TaskType.Disjunctive, 30);
 			tmpTaskExp = new Expertise(2, 2, 3, 4, 1);
-			project.taskList[3] = new Task(tmpTaskExp, 100, 100, TaskType.Additive, 50, 1);
+			project.taskList[3] = new Task(tmpTaskExp, 100, TaskType.Additive, 50);
 			tmpTaskExp = new Expertise(1, 2, 3, 4, 5);
-			project.taskList[4] = new Task(tmpTaskExp, 100, 100, TaskType.Conjunctive, 10, 1);
+			project.taskList[4] = new Task(tmpTaskExp, 100, TaskType.Conjunctive, 10);
 			tmpTaskExp = new Expertise(1, 2, 3, 4, 5);
-			project.taskList[5] = new Task(tmpTaskExp, 1000, 1000, TaskType.Additive, 15, 1);
+			project.taskList[5] = new Task(tmpTaskExp, 1000, TaskType.Additive, 15);
 			tmpTaskExp = new Expertise(1, 2, 3, 4, 5);
-			project.taskList[6] = new Task(tmpTaskExp, 1000, 1000, TaskType.Additive, 20, 1);
+			project.taskList[6] = new Task(tmpTaskExp, 1000, TaskType.Additive, 20);
 			tmpTaskExp = new Expertise(1, 2, 3, 4, 5);
-			project.taskList[7] = new Task(tmpTaskExp, 6000, 1000, TaskType.Disjunctive, 40, 1);
+			project.taskList[7] = new Task(tmpTaskExp, 1000, TaskType.Disjunctive, 40);
 			tmpTaskExp = new Expertise(1, 2, 3, 4, 5);
-			project.taskList[8] = new Task(tmpTaskExp, 6000, 1000, TaskType.Additive, 5, 1);
+			project.taskList[8] = new Task(tmpTaskExp, 1000, TaskType.Additive, 5);
 			tmpTaskExp = new Expertise(1, 2, 3, 4, 5);
-			project.taskList[9] = new Task(tmpTaskExp, 300, 100, TaskType.Additive, 60, 1);
+			project.taskList[9] = new Task(tmpTaskExp, 100, TaskType.Additive, 60);
 
 			int numAgents = 3;
 			// **V3 CHANGE** Make this a user input for # of agents
