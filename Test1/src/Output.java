@@ -4,12 +4,6 @@ import java.io.IOException;
 
 public class Output {
 
-	public static void main(String[] args) {
-		Output.write2File("prjtmp","matrix.txt", "hahaha1\n");
-		Output.write2File("prjtmp","matrix.txt", "hahaha2\n");
-		Output.write2File("prjtmp","matrix.txt", "hahaha3\n");
-	}
-
 	public static void write2File(String projectName, String fileName, String content) {
 		BufferedWriter bw = null;
 

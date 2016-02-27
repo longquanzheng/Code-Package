@@ -56,20 +56,8 @@ public class Project {
 			// Populate each agent's vector - AGENT CONTEXT
 			// **V3 CHANGE** Make this a user input for ThinkModes and Expertise
 			System.out.println("Building Project Team");
-			ThinkMode tmpThinkMode;
-			Expertise tmpExpertise;
-			project.projectTeam = new Agent[numAgents];
-			tmpThinkMode = new ThinkMode(15, 38, 135, 67);
-			tmpExpertise = new Expertise(5, 6, 3, 2, 1);
-			project.projectTeam[0] = new Agent(tmpThinkMode, tmpExpertise, 4, 1);
-			tmpThinkMode = new ThinkMode(100, 60, 58, 12);
-			tmpExpertise = new Expertise(10, 0, 0, 6, 8);
-			project.projectTeam[1] = new Agent(tmpThinkMode, tmpExpertise, 1, 5);
-			tmpThinkMode = new ThinkMode(50, 7, 67, 100);
-			tmpExpertise = new Expertise(0, 10, 7, 0, 0);
-			project.projectTeam[2] = new Agent(tmpThinkMode, tmpExpertise, 3, 3);
-
-			// CREATE INPUTS FOR taskTypeInput, expTeamInput, taskExpInput
+			AgentPool agentPool = new AgentPool();
+			project.projectTeam = agentPool.createTeamRandomly(numAgents);
 
 			// Put all agents' vectors into a matrix
 			ThinkMode[] modeProfileList = new ThinkMode[numAgents];
@@ -94,7 +82,8 @@ public class Project {
 				while (scanCount < project.taskList.length) {
 					if (project.taskList[scanIndex].available() == true) {
 						int roll = randInt(1, 6);
-						double effc = effComm.calcEfficiencyComm(modeProfileList);
+						//TWO different algorithms are availble: DIST (1) and ANGLE (2)
+						double effc = effComm.calcEfficiencyComm1(modeProfileList);
 						boolean effe = effExp.calcExpertise(project.taskList[scanIndex].taskType, teamExpertiseList,
 								project.taskList[scanIndex].taskExp);
 						project.taskList[scanIndex].Achieve(roll, effe, effc);
@@ -107,10 +96,11 @@ public class Project {
 								+ project.taskList[scanIndex].taskAchievement);
 						
 						//make sure to remove .txt file to not keep appending; it will create a new file automatically
+						Output.write2File(projectName,"iteration_achievement"+".txt",""+prj_itr_id +"\t"+ scanIndex);
 						for(int i=0;i<project.taskList.length;i++){
-							Output.write2File(projectName,"iteration_achievement-"+prj_itr_id+".txt", "\t"+project.taskList[i].taskAchievement);
+							Output.write2File(projectName,"iteration_achievement"+".txt", "\t" + roll +"\t"+ project.taskList[i].iterationsCompleted+"\t"+project.taskList[i].taskAchievement);
 						}
-						Output.write2File(projectName,"iteration_achievement-"+prj_itr_id+".txt", "\n");
+						Output.write2File(projectName,"iteration_achievement"+".txt", "\n");
 						
 						
 						continue outerwhile;
@@ -134,12 +124,15 @@ public class Project {
 				}
 				break;
 			}
+			//for each iteration of the project, print the end achievement, min achievement, and number of iterations
 			for(int i=0;i<project.taskList.length;i++){
-				Output.write2File(projectName,"iteration_achievement-"+prj_itr_id+".txt", "\t"+project.taskList[i].minAchievement);
+				Output.write2File(projectName,"final_achievement"+".txt", "\t"+project.taskList[i].minAchievement +"\t"+ project.taskList[i].iterationsCompleted);
 			}
-			Output.write2File(projectName,"iteration_achievement-"+prj_itr_id+".txt", "\n");
+			Output.write2File(projectName,"final_achievement"+".txt", "\n");
+			
 		}// End for loop to run project 10x
-
+	
+		
 		System.out.println("Project1 has ended");
 		
 		/*

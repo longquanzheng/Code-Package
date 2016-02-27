@@ -59,7 +59,7 @@ public class Task {
 		//Parse Boolean into Integer for future calculation
 		int effExpInt = (effExp) ? 1 : 0;
 		//One iteration of a task (attempt) takes x hours
-		//Thread.sleep(hoursPerIteration * 1000/secondsPerHour);
+		//Thread.sleep(hoursPerIteration * 1000/secondsPerHour); 
 		double newAchievement = roll*effExpInt*effComm;
 		taskAchievement = taskAchievement + newAchievement;
 		iterationsCompleted++;
