@@ -1,7 +1,7 @@
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-
+//THIS CLASS ALLOWS FILE OUTPUT > Borrowed from StackOverflow
 public class Output {
 
 	public static void write2File(String projectName, String fileName, String content) {

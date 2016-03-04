@@ -15,10 +15,10 @@ public class AgentPool {
 		tmpExpertise = new Expertise(5, 6, 3, 2, 1);
 		agentList[0] = new Agent(tmpThinkMode, tmpExpertise, 1, 1);
 		tmpThinkMode = new ThinkMode(100, 60, 58, 12);
-		tmpExpertise = new Expertise(10, 0, 0, 6, 8);
+		tmpExpertise = new Expertise(10, 1, 1, 6, 8);
 		agentList[1] = new Agent(tmpThinkMode, tmpExpertise, 1, 1);
 		tmpThinkMode = new ThinkMode(50, 7, 67, 100);
-		tmpExpertise = new Expertise(0, 10, 7, 0, 0);
+		tmpExpertise = new Expertise(1, 10, 7, 1, 1);
 		agentList[2] = new Agent(tmpThinkMode, tmpExpertise, 1, 1);
 		//TODO: add all agents in the organization & change the agentlist number
 	}

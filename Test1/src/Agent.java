@@ -4,9 +4,9 @@ public class Agent {
 	public ThinkMode modeProfile;
 	public Expertise expProfile;
 	public int agentFlex;
-	//**ADD** How does adaptability change the equation?
+	//TODO: show that this in, but doesn't go anywhere
 	public int	agentLearningSpeed;
-	//**ADD** How does learning speed change the equation?
+	//TODO: show that this in, but doesn't go anywhere
 
 	public Agent(ThinkMode modeProfileInput, Expertise expInput, int flexInput, int learnInput) {
 		modeProfile = modeProfileInput;

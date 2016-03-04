@@ -36,6 +36,6 @@ public class Expertise {
 		}else{	
 		areaExpertise[4] = e;
 		}
-		//Expertise must be between 0 and 10
+		//Expertise must be between 1 and 10
 	}
 }

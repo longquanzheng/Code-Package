@@ -1,0 +1,1578 @@
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4617c264
+	ThinkMode@36baf30c
+	ThinkMode@7a81197d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	ThinkMode@372f7a8d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@28a418fc
+	ThinkMode@5305068a
+	ThinkMode@1f32e575
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2ff4acd0
+	ThinkMode@54bedef2
+	ThinkMode@5caf905d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@8efb846
+	ThinkMode@2a84aee7
+	ThinkMode@a09ee92
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@452b3a41
+	ThinkMode@4a574795
+	ThinkMode@f6f4d33
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3f99bd52
+	ThinkMode@4f023edb
+	ThinkMode@3a71f4dd
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@85ede7b
+	ThinkMode@5674cd4d
+	ThinkMode@63961c42
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1be6f5c3
+	ThinkMode@6b884d57
+	ThinkMode@38af3868
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3af49f1c
+	ThinkMode@19469ea2
+	ThinkMode@13221655
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@31befd9f
+	ThinkMode@1c20c684
+	ThinkMode@1fb3ebeb
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1218025c
+	ThinkMode@816f27d
+	ThinkMode@87aac27
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6ce253f1
+	ThinkMode@53d8d10a
+	ThinkMode@e9e54c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1b28cdfa
+	ThinkMode@eed1f14
+	ThinkMode@7229724f
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@119d7047
+	ThinkMode@776ec8df
+	ThinkMode@4eec7777
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@41629346
+	ThinkMode@404b9385
+	ThinkMode@6d311334
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3d075dc0
+	ThinkMode@214c265e
+	ThinkMode@448139f0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7ba4f24f
+	ThinkMode@3b9a45b3
+	ThinkMode@7699a589
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4dd8dc3
+	ThinkMode@6d03e736
+	ThinkMode@568db2f2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5fd0d5ae
+	ThinkMode@2d98a335
+	ThinkMode@16b98e56
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27d6c5e0
+	ThinkMode@4f3f5b24
+	ThinkMode@15aeb7ab
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6acbcfc0
+	ThinkMode@5f184fc6
+	ThinkMode@3feba861
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6f496d9f
+	ThinkMode@723279cf
+	ThinkMode@10f87f48
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f4d3709
+	ThinkMode@4e50df2e
+	ThinkMode@1d81eb93
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@34a245ab
+	ThinkMode@7cc355be
+	ThinkMode@6e8cf4c6
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@34c45dca
+	ThinkMode@52cc8049
+	ThinkMode@5b6f7412
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@312b1dae
+	ThinkMode@7530d0a
+	ThinkMode@27bc2616
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@506e1b77
+	ThinkMode@4fca772d
+	ThinkMode@9807454
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1ddc4ec2
+	ThinkMode@133314b
+	ThinkMode@b1bc7ed
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@30dae81
+	ThinkMode@1b2c6ec2
+	ThinkMode@4edde6e5
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1e80bfe8
+	ThinkMode@66a29884
+	ThinkMode@4769b07b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@17a7cec2
+	ThinkMode@65b3120a
+	ThinkMode@6f539caf
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@50040f0c
+	ThinkMode@2dda6444
+	ThinkMode@5e9f23b4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@378fd1ac
+	ThinkMode@49097b5d
+	ThinkMode@6e2c634b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7e6cbb7a
+	ThinkMode@7c3df479
+	ThinkMode@7106e68e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6576fe71
+	ThinkMode@76fb509a
+	ThinkMode@300ffa5d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4d405ef7
+	ThinkMode@6193b845
+	ThinkMode@2e817b38
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@433c675d
+	ThinkMode@3f91beef
+	ThinkMode@1a6c5a9e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@179d3b25
+	ThinkMode@254989ff
+	ThinkMode@5d099f62
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@49c2faae
+	ThinkMode@20ad9418
+	ThinkMode@31cefde0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4617c264
+	ThinkMode@36baf30c
+	ThinkMode@7a81197d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	ThinkMode@372f7a8d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@28a418fc
+	ThinkMode@5305068a
+	ThinkMode@1f32e575
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2ff4acd0
+	ThinkMode@54bedef2
+	ThinkMode@5caf905d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@8efb846
+	ThinkMode@2a84aee7
+	ThinkMode@a09ee92
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@452b3a41
+	ThinkMode@4a574795
+	ThinkMode@f6f4d33
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3f99bd52
+	ThinkMode@4f023edb
+	ThinkMode@3a71f4dd
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@85ede7b
+	ThinkMode@5674cd4d
+	ThinkMode@63961c42
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1be6f5c3
+	ThinkMode@6b884d57
+	ThinkMode@38af3868
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4617c264
+	ThinkMode@36baf30c
+	ThinkMode@7a81197d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	ThinkMode@372f7a8d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@28a418fc
+	ThinkMode@5305068a
+	ThinkMode@1f32e575
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2ff4acd0
+	ThinkMode@54bedef2
+	ThinkMode@5caf905d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@8efb846
+	ThinkMode@2a84aee7
+	ThinkMode@a09ee92
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@452b3a41
+	ThinkMode@4a574795
+	ThinkMode@f6f4d33
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3f99bd52
+	ThinkMode@4f023edb
+	ThinkMode@3a71f4dd
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@85ede7b
+	ThinkMode@5674cd4d
+	ThinkMode@63961c42
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1be6f5c3
+	ThinkMode@6b884d57
+	ThinkMode@38af3868
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3af49f1c
+	ThinkMode@19469ea2
+	ThinkMode@13221655
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4617c264
+	ThinkMode@36baf30c
+	ThinkMode@7a81197d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	ThinkMode@372f7a8d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@28a418fc
+	ThinkMode@5305068a
+	ThinkMode@1f32e575
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2ff4acd0
+	ThinkMode@54bedef2
+	ThinkMode@5caf905d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@8efb846
+	ThinkMode@2a84aee7
+	ThinkMode@a09ee92
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@452b3a41
+	ThinkMode@4a574795
+	ThinkMode@f6f4d33
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3f99bd52
+	ThinkMode@4f023edb
+	ThinkMode@3a71f4dd
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@85ede7b
+	ThinkMode@5674cd4d
+	ThinkMode@63961c42
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1be6f5c3
+	ThinkMode@6b884d57
+	ThinkMode@38af3868
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3af49f1c
+	ThinkMode@19469ea2
+	ThinkMode@13221655
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@31befd9f
+	ThinkMode@1c20c684
+	ThinkMode@1fb3ebeb
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1218025c
+	ThinkMode@816f27d
+	ThinkMode@87aac27
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6ce253f1
+	ThinkMode@53d8d10a
+	ThinkMode@e9e54c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1b28cdfa
+	ThinkMode@eed1f14
+	ThinkMode@7229724f
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@119d7047
+	ThinkMode@776ec8df
+	ThinkMode@4eec7777
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@41629346
+	ThinkMode@404b9385
+	ThinkMode@6d311334
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3d075dc0
+	ThinkMode@214c265e
+	ThinkMode@448139f0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7ba4f24f
+	ThinkMode@3b9a45b3
+	ThinkMode@7699a589
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4dd8dc3
+	ThinkMode@6d03e736
+	ThinkMode@568db2f2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5fd0d5ae
+	ThinkMode@2d98a335
+	ThinkMode@16b98e56
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27d6c5e0
+	ThinkMode@4f3f5b24
+	ThinkMode@15aeb7ab
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6acbcfc0
+	ThinkMode@5f184fc6
+	ThinkMode@3feba861
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6f496d9f
+	ThinkMode@723279cf
+	ThinkMode@10f87f48
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f4d3709
+	ThinkMode@4e50df2e
+	ThinkMode@1d81eb93
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@34a245ab
+	ThinkMode@7cc355be
+	ThinkMode@6e8cf4c6
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@34c45dca
+	ThinkMode@52cc8049
+	ThinkMode@5b6f7412
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@312b1dae
+	ThinkMode@7530d0a
+	ThinkMode@27bc2616
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@506e1b77
+	ThinkMode@4fca772d
+	ThinkMode@9807454
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1ddc4ec2
+	ThinkMode@133314b
+	ThinkMode@b1bc7ed
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@30dae81
+	ThinkMode@1b2c6ec2
+	ThinkMode@4edde6e5
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1e80bfe8
+	ThinkMode@66a29884
+	ThinkMode@4769b07b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@17a7cec2
+	ThinkMode@65b3120a
+	ThinkMode@6f539caf
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@50040f0c
+	ThinkMode@2dda6444
+	ThinkMode@5e9f23b4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@378fd1ac
+	ThinkMode@49097b5d
+	ThinkMode@6e2c634b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7e6cbb7a
+	ThinkMode@7c3df479
+	ThinkMode@7106e68e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6576fe71
+	ThinkMode@76fb509a
+	ThinkMode@300ffa5d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4d405ef7
+	ThinkMode@6193b845
+	ThinkMode@2e817b38
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@433c675d
+	ThinkMode@3f91beef
+	ThinkMode@1a6c5a9e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@179d3b25
+	ThinkMode@254989ff
+	ThinkMode@5d099f62
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@49c2faae
+	ThinkMode@20ad9418
+	ThinkMode@31cefde0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1d56ce6a
+	ThinkMode@5197848c
+	ThinkMode@17f052a3
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5010be6
+	ThinkMode@685f4c2e
+	ThinkMode@7daf6ecc
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@238e0d81
+	ThinkMode@31221be2
+	ThinkMode@377dca04
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@21b8d17c
+	ThinkMode@6433a2
+	ThinkMode@5910e440
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@533ddba
+	ThinkMode@246b179d
+	ThinkMode@7a07c5b4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3d646c37
+	ThinkMode@41cf53f9
+	ThinkMode@5a10411
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@306a30c7
+	ThinkMode@b81eda8
+	ThinkMode@68de145
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@46f7f36a
+	ThinkMode@421faab1
+	ThinkMode@2b71fc7e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4617c264
+	ThinkMode@36baf30c
+	ThinkMode@7a81197d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	ThinkMode@372f7a8d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@28a418fc
+	ThinkMode@5305068a
+	ThinkMode@1f32e575
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3764951d
+	ThinkMode@4b1210ee
+	ThinkMode@4d7e1886
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@45ee12a7
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@511d50c0
+	ThinkMode@60e53b93
+	ThinkMode@5e2de80c
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	ThinkMode@6ff3c5b5
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5ca881b5
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5caf905d
+	ThinkMode@27716f4
+	ThinkMode@8efb846
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@45ee12a7
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4f023edb
+	ThinkMode@3a71f4dd
+	ThinkMode@7adf9f5f
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@511d50c0
+	ThinkMode@60e53b93
+	ThinkMode@5e2de80c
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	ThinkMode@6ff3c5b5
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@548c4f57
+	ThinkMode@1218025c
+	ThinkMode@816f27d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27c170f0
+	ThinkMode@5451c3a8
+	ThinkMode@2626b418
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7229724f
+	ThinkMode@4c873330
+	ThinkMode@119d7047
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5ca881b5
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@214c265e
+	ThinkMode@448139f0
+	ThinkMode@7cca494b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5caf905d
+	ThinkMode@27716f4
+	ThinkMode@8efb846
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4f023edb
+	ThinkMode@3a71f4dd
+	ThinkMode@7adf9f5f
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@548c4f57
+	ThinkMode@1218025c
+	ThinkMode@816f27d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2f0e140b
+	ThinkMode@7440e464
+	ThinkMode@49476842
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@76ed5528
+	ThinkMode@2c7b84de
+	ThinkMode@3fee733d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@24d46ca6
+	ThinkMode@4517d9a3
+	ThinkMode@372f7a8d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2ff4acd0
+	ThinkMode@54bedef2
+	ThinkMode@5caf905d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@452b3a41
+	ThinkMode@4a574795
+	ThinkMode@f6f4d33
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@85ede7b
+	ThinkMode@5674cd4d
+	ThinkMode@63961c42
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5b2133b1
+	ThinkMode@72ea2f77
+	ThinkMode@33c7353a
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@31befd9f
+	ThinkMode@1c20c684
+	ThinkMode@1fb3ebeb
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6ce253f1
+	ThinkMode@53d8d10a
+	ThinkMode@e9e54c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@119d7047
+	ThinkMode@776ec8df
+	ThinkMode@4eec7777
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@3d075dc0
+	ThinkMode@214c265e
+	ThinkMode@448139f0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4dd8dc3
+	ThinkMode@6d03e736
+	ThinkMode@568db2f2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@27d6c5e0
+	ThinkMode@4f3f5b24
+	ThinkMode@15aeb7ab
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@6f496d9f
+	ThinkMode@723279cf
+	ThinkMode@10f87f48
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@34a245ab
+	ThinkMode@7cc355be
+	ThinkMode@6e8cf4c6
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@312b1dae
+	ThinkMode@7530d0a
+	ThinkMode@27bc2616
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1ddc4ec2
+	ThinkMode@133314b
+	ThinkMode@b1bc7ed
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1e80bfe8
+	ThinkMode@66a29884
+	ThinkMode@4769b07b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@50040f0c
+	ThinkMode@2dda6444
+	ThinkMode@5e9f23b4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7e6cbb7a
+	ThinkMode@7c3df479
+	ThinkMode@7106e68e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4d405ef7
+	ThinkMode@6193b845
+	ThinkMode@2e817b38
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@179d3b25
+	ThinkMode@254989ff
+	ThinkMode@5d099f62
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@1d56ce6a
+	ThinkMode@5197848c
+	ThinkMode@17f052a3
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@238e0d81
+	ThinkMode@31221be2
+	ThinkMode@377dca04
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@14ae5a5
+	ThinkMode@6d6f6e28
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@45ee12a7
+	ThinkMode@135fbaa4
+	ThinkMode@330bedb4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@4b67cf4d
+	ThinkMode@2503dbd3
+	ThinkMode@7ea987ac
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@29453f44
+	ThinkMode@12a3a380
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@6e0be858
+	ThinkMode@610455d6
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@60e53b93
+	ThinkMode@511d50c0
+	ThinkMode@5e2de80c
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@266474c2
+	ThinkMode@1d44bcfa
+	ThinkMode@6f94fa3e
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	ThinkMode@135fbaa4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@330bedb4
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@61bbe9ba
+	ThinkMode@610455d6
+	ThinkMode@511d50c0
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e2de80c
+	ThinkMode@1d44bcfa
+	ThinkMode@266474c2
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@5e481248
+	ThinkMode@66d3c617
+	ThinkMode@63947c6b
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@355da254
+	ThinkMode@4dc63996
+	ThinkMode@d716361
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@14ae5a5
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@135fbaa4
+	ThinkMode@45ee12a7
+	ThinkMode@330bedb4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	ThinkMode@7ea987ac
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@12a3a380
+	ThinkMode@29453f44
+	ThinkMode@5cad8086
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@14ae5a5
+	ThinkMode@7f31245a
+	ThinkMode@6d6f6e28
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@135fbaa4
+	ThinkMode@45ee12a7
+	ThinkMode@330bedb4
+	EffComm: 0.7068940275069252
+Team Matrix
+	A	B	C	D
+	ThinkMode@2503dbd3
+	ThinkMode@4b67cf4d
+	ThinkMode@7ea987ac
