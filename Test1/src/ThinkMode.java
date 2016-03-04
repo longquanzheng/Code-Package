@@ -29,6 +29,8 @@ public class ThinkMode {
 		//Constraint: These integers must be between 0 and 150
 	}
 	
-	
+	public String toString(){
+		return "ThinkMode is :"+thinkMode[0]+ "\t"+thinkMode[1]+ "\t"+thinkMode[2]+ "\t"+thinkMode[3];
+	}
 	
 }

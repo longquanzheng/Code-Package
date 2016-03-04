@@ -73,16 +73,16 @@ public class Project {
 			
 			//TODO: Print the Mode Profile for each member chosen
 			//I TRIED BOTH METHODS BELOW...I EITHER GET HASH CODE OR ERROR
-			//System.out.println(java.util.Arrays.toString(modeProfileList));
-			//for (int i = 0; i < modeProfileList.length; i++) {
-				//System.out.println(java.util.Arrays.toString(modeProfileList[i]);
-			//}
+			// fix by Q.Long
+			for (int i = 0; i < modeProfileList.length; i++) {
+				System.out.println(modeProfileList[i]);
+			}
+
 			//TODO: Print the Exp Profile for each member chosen
 			//I TRIED BOTH METHODS BELOW...I EITHER GET HASH CODE OR ERROR
-			//System.out.println(java.util.Arrays.toString(teamExpertiseList));
-			//for (int i = 0; i < modeProfileList.length; i++) {
-				//System.out.println(java.util.Arrays.toString(teamExpertiseList[i]);
-			//}
+			for (int i = 0; i < modeProfileList.length; i++) {
+				System.out.println(teamExpertiseList[i]);
+			}
 
 			// Create new objects for CommCalc and ExpCalc, RETURN coefficients
 			CommCalc effComm = new CommCalc();

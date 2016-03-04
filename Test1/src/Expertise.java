@@ -38,4 +38,8 @@ public class Expertise {
 		}
 		//Expertise must be between 1 and 10
 	}
+	
+	public String toString(){
+		return "Expertise is :"+areaExpertise[0]+ "\t"+areaExpertise[1]+ "\t"+areaExpertise[2]+ "\t"+areaExpertise[3];
+	}
 }
